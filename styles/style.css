@@ -29,3 +29,11 @@ html {
     width: 200px;
     height: 200px;
   }
+  button{
+
+    background-color: rgb(14, 187, 37);
+    width: 200px;
+    height: 40px;
+    border: #00539f;
+    border-style: dotted;
+  }
